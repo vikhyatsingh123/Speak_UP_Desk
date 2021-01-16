@@ -1,4 +1,4 @@
-# Speak_UP_Desk
+# Speak UP Desk
 
 **Online Crime Reporting System** is an internet based Project developed using PHP and MySQL. The aim of **Online Crime Reporting System** will be to create a web based program using which people are able to report crime online. It gives the facility of uploading videos or images of crime scenes to ensure that authorities can take action immediately.
 
@@ -55,11 +55,6 @@ Presently there is no online web application available to report crime online. I
 **Back-end**
         PHP
 	MySQL
-
-
-
-
-***Total Downloads : 15772***
 
 
 
