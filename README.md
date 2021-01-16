@@ -14,14 +14,12 @@ Presently there is no online web application available to report crime online. I
 
 
 
-
         Admin
 	Police Station
 	Public Users
 
 
 ***Admin Features***
-
 
 
 
@@ -79,6 +77,8 @@ Presently there is no online web application available to report crime online. I
 
 
 **Back-end**
+
+
 
         PHP
 	MySQL
