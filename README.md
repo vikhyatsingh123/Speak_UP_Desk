@@ -27,14 +27,14 @@ Add/Update/Display/Delete Police Officer(Police Station)
 	View Query
 	View Feedback
 
-***Police Officer
+***Police Officer***
 
         View Complaint
 	Update Complaint Status
 	View Emergencey Complaints
 
 
-***Citizen
+***Citizen***
 
        Register
 	Login
@@ -42,15 +42,15 @@ Add/Update/Display/Delete Police Officer(Police Station)
 	View Complaint Status
 
 
-***Public(without create account)
+***Public(without create account)***
 	
         Add Emergencey Complaint
 	Track Emergencey Complaint Status
 
 
-***Brief overview of the technology
+***Brief overview of the technology***
 
-**Front-end
+**Front-end**
 
         HTML
 	CSS
@@ -58,7 +58,7 @@ Add/Update/Display/Delete Police Officer(Police Station)
 	Bootstrap
 
 
-**Back-end
+**Back-end**
 
         PHP
 	MySQL
