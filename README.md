@@ -11,15 +11,13 @@ Presently there is no online web application available to report crime online. I
 ![1610793289016](https://user-images.githubusercontent.com/62890747/104809640-b4275980-5814-11eb-8804-6d13ad685bb6.jpg)    
 
 ***System Users/Actors***
-
-Admin
+        Admin
 	Police Station
 	Public Users
 
 
 ***Admin Features***
-	
-Add/Update/Display/Delete Police Officer(Police Station)
+        Add/Update/Display/Delete Police Officer(Police Station)
 	Add/Update/Display/Delete Citizen(User)
 	Update/Display/Delete Complaint
 	View/Delete Complaints Status
@@ -28,22 +26,19 @@ Add/Update/Display/Delete Police Officer(Police Station)
 	View Feedback
 
 ***Police Officer***
-
         View Complaint
 	Update Complaint Status
 	View Emergencey Complaints
 
 
 ***Citizen***
-
-       Register
+        Register
 	Login
 	Add Complaint
 	View Complaint Status
 
 
 ***Public(without create account)***
-	
         Add Emergencey Complaint
 	Track Emergencey Complaint Status
 
@@ -51,7 +46,6 @@ Add/Update/Display/Delete Police Officer(Police Station)
 ***Brief overview of the technology***
 
 **Front-end**
-
         HTML
 	CSS
 	Javascript/Jquery
@@ -59,7 +53,6 @@ Add/Update/Display/Delete Police Officer(Police Station)
 
 
 **Back-end**
-
         PHP
 	MySQL
 
@@ -67,7 +60,7 @@ Add/Update/Display/Delete Police Officer(Police Station)
 
 
 
-***Total Downloads : 15772
+***Total Downloads : 15772***
 
 
 
