@@ -23,23 +23,12 @@ Public Users
 
 
 
- Add/Update/Display/Delete Police Officer(Police Station)
 Add/Update/Display/Delete Citizen(User)
 Update/Display/Delete Complaint
 View/Delete Complaints Status
 View/Delete Emergencey Complaint
 View Query
 View Feedback
-
-***Police Officer***
-
-
-
-
-
-View Complaint
-Update Complaint Status
-View Emergencey Complaints
 
 
 ***Citizen***
