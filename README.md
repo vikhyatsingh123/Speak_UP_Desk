@@ -14,22 +14,22 @@ Presently there is no online web application available to report crime online. I
 
 
 
-        Admin
-	Police Station
-	Public Users
+Admin
+Police Station
+Public Users
 
 
 ***Admin Features***
 
 
 
-        Add/Update/Display/Delete Police Officer(Police Station)
-	Add/Update/Display/Delete Citizen(User)
-	Update/Display/Delete Complaint
-	View/Delete Complaints Status
-	View/Delete Emergencey Complaint
-	View Query
-	View Feedback
+ Add/Update/Display/Delete Police Officer(Police Station)
+Add/Update/Display/Delete Citizen(User)
+Update/Display/Delete Complaint
+View/Delete Complaints Status
+View/Delete Emergencey Complaint
+View Query
+View Feedback
 
 ***Police Officer***
 
@@ -37,9 +37,9 @@ Presently there is no online web application available to report crime online. I
 
 
 
-        View Complaint
-	Update Complaint Status
-	View Emergencey Complaints
+View Complaint
+Update Complaint Status
+View Emergencey Complaints
 
 
 ***Citizen***
@@ -47,10 +47,10 @@ Presently there is no online web application available to report crime online. I
 
 
 
-        Register
-	Login
-	Add Complaint
-	View Complaint Status
+Register
+Login
+Add Complaint
+View Complaint Status
 
 
 ***Public(without create account)***
@@ -58,8 +58,8 @@ Presently there is no online web application available to report crime online. I
 
 
 
-        Add Emergencey Complaint
-	Track Emergencey Complaint Status
+Add Emergencey Complaint
+Track Emergencey Complaint Status
 
 
 ***Brief overview of the technology***
@@ -70,18 +70,18 @@ Presently there is no online web application available to report crime online. I
 
 
 
-        HTML
-	CSS
-	Javascript/Jquery
-	Bootstrap
+HTML	
+CSS
+Javascript/Jquery
+Bootstrap
 
 
 **Back-end**
 
 
 
-        PHP
-	MySQL
+PHP
+MySQL
 
 
 
