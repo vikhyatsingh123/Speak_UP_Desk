@@ -1,10 +1,10 @@
-# Speak_UP_Desk
+# Speak UP Desk
 
-**Online Crime Reporting System** is an internet based Project developed using PHP and MySQL. The aim of **Online Crime Reporting System** will be to create a web based program using which people are able to report crime online. It gives the facility of uploading videos or images of crime scenes to ensure that authorities can take action immediately.
+**Speak UP Desk** is an internet based Project developed using PHP and MySQL. The aim of **Online Crime Reporting System** will be to create a web based program using which people are able to report crime online. It gives the facility of registering any crime cases to ensure that authorities can take action immediately.
 
 **PROJECT OBJECTIVE** :
 
-The Objective of **Crime Reporting System** is to develop a web based program using which people can report crime online. It provides the facility of uploading images or videos of crime scenes to ensure that police may take action immediately. It also supplies the advice of missing persons, most wanted criminals and security tips for the awarness of people.
+The Objective of **Speak UP Desk** is to develop a web based program using which people can report crime online. It provides the facility of uploading images or videos of crime scenes to ensure that police may take action immediately. It also supplies the advice of missing persons, most wanted criminals and security tips for the awarness of people.
     
 Presently there is no online web application available to report crime online. In order to report any complains associated with crime, people has to contact closest police station. People of the specific city are not aware of crime related matters such as list of Most wanted criminals of their town, newest crime related news, missing persons of the area etc..People must view News Chanels or Read News Paper for such offense related details. Thus we can say that present platform is manual and does not supply all the information from 1 source.
 
@@ -12,14 +12,12 @@ Presently there is no online web application available to report crime online. I
 
 ***System Users/Actors***
 
-
         Admin
 	Police Station
 	Public Users
 
 
 ***Admin Features***
-
 
         Add/Update/Display/Delete Police Officer(Police Station)
 	Add/Update/Display/Delete Citizen(User)
@@ -31,14 +29,12 @@ Presently there is no online web application available to report crime online. I
 
 ***Police Officer***
 
-
         View Complaint
 	Update Complaint Status
 	View Emergencey Complaints
 
 
 ***Citizen***
-
 
         Register
 	Login
@@ -47,7 +43,6 @@ Presently there is no online web application available to report crime online. I
 
 
 ***Public(without create account)***
-
 
         Add Emergencey Complaint
 	Track Emergencey Complaint Status
@@ -58,7 +53,6 @@ Presently there is no online web application available to report crime online. I
 
 **Front-end**
 
-
         HTML
 	CSS
 	Javascript/Jquery
@@ -67,9 +61,7 @@ Presently there is no online web application available to report crime online. I
 
 **Back-end**
 
-
-        
-	PHP
+        PHP
 	MySQL
 
 
